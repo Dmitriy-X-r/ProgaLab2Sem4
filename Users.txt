@@ -1,0 +1,2 @@
+Артем 0000 C://Users//user//Desktop//0.txt
+Дима 1234 C://Users//user//Desktop//1.txt
